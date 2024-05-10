@@ -26,9 +26,9 @@ double quotient2 = i1 / d1 ;
 Console.WriteLine(quotient2);
 
 
-int a = 8;
-int b = 3;
-int c = 4;
-double d = 10;
+int a = 5;
+int b = 2;
+int c = 3;
+double d = 3;
 double result = (a*b)/(c+d);
 Console.WriteLine(result);
