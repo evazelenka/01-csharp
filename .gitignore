@@ -16,6 +16,7 @@
 Task1.csproj
 01_CSHARP.sln
 .gitignore
+*.csproj
 
 # Mono auto generated files
 mono_crash.*
